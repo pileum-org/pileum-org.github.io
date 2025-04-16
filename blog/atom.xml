@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pileum.org/blog</id>
+    <title>Pileum Blog</title>
+    <updated>2024-03-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pileum.org/blog"/>
+    <subtitle>Pileum Blog</subtitle>
+    <icon>https://pileum.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Introducing PileumConnect]]></title>
+        <id>https://pileum.org/blog/introducing-pileum-connect</id>
+        <link href="https://pileum.org/blog/introducing-pileum-connect"/>
+        <updated>2024-03-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PileumConnect is a public OpenID Connect Provider designed for proof of personhood and privacy.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://connect.pileum.eu/" target="_blank" rel="noopener noreferrer">PileumConnect</a> is a public <code>OpenID Connect Provider</code> designed for <a href="https://pileum.org/docs/intro#proof-of-personhood">proof of personhood</a> and privacy.</p>
+<p><code>Users</code> must own a <a href="https://pileum.org/docs/connect">french electronic national identity card</a> to register an account and prove their identity.
+The user's identity is processed directly in the browser, ensuring it is never transmitted over the internet.</p>
+<p>Any <code>OpenID Connect Relying Party</code> can use the service to authenticate its users : the only user information provided is a <em>Pairwise Pseudonymous Identifier</em> (PPID). PPID is the identifier of a <code>User</code> to a <code>Relying Party</code> and cannot be correlated with the <code>User</code>'s PPID at another <code>Relying Party</code>.</p>
+<p>PileumConnect also extends the official <code>OpenID Connect</code> specifications with <a href="https://eips.ethereum.org/EIPS/eip-712" target="_blank" rel="noopener noreferrer">EIP-712 signatures</a> to make authentication responses compatible with Ethereum smart contracts.</p>
+<p>Check the <a href="https://pileum.org/docs/connect">documentation for more details</a>.</p>]]></content>
+        <author>
+            <name>Frédéric</name>
+            <uri>https://fredericb.info</uri>
+        </author>
+        <category label="pileum" term="pileum"/>
+        <category label="franceidentite" term="franceidentite"/>
+        <category label="oidc" term="oidc"/>
+        <category label="proof-of-personhood" term="proof-of-personhood"/>
+        <category label="ethereum" term="ethereum"/>
+        <category label="eip712" term="eip712"/>
+    </entry>
+</feed>
