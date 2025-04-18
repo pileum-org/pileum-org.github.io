@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="32"
+   height="32"
+   id="svg19256"
+   sodipodi:docname="OCO-logo.svg"
+   viewBox="0 0 32 32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19260" />
+  <sodipodi:namedview
+     id="namedview19258"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g19382"
+     transform="matrix(0.96874996,0,0,0.96874996,-80.874997,-80.874995)">
+    <path
+       d="M 112.86033,105.7157 V 94.284298 a 2.8578503,2.8578503 0 0 0 -1.42893,-2.47204 l -10.00247,-5.715701 a 2.8578503,2.8578503 0 0 0 -2.857855,0 l -10.002476,5.715701 a 2.8578503,2.8578503 0 0 0 -1.428926,2.47204 V 105.7157 a 2.8578503,2.8578503 0 0 0 1.428926,2.47204 l 10.002476,5.7157 a 2.8578503,2.8578503 0 0 0 2.857855,0 l 10.00247,-5.7157 a 2.8578503,2.8578503 0 0 0 1.42893,-2.47204 z"
+       fill-opacity="0"
+       stroke-width="3.42942"
+       stroke="#238f9d"
+       id="path19250" />
+    <path
+       d="m 108.57355,96.189532 a 1.9052336,1.9052336 0 0 0 -0.95262,-1.648027 l -6.66831,-3.810467 a 1.9052336,1.9052336 0 0 0 -1.905237,0 l -6.668317,3.810467 a 1.9052336,1.9052336 0 0 0 -0.952617,1.648027 v 7.620938 a 1.9052336,1.9052336 0 0 0 0.952617,1.64802 l 6.668317,3.81047 a 1.9052336,1.9052336 0 0 0 1.905237,0 l 6.66831,-3.81047 a 1.9052336,1.9052336 0 0 0 0.95262,-1.64802"
+       fill-opacity="0"
+       stroke-width="3.08648"
+       stroke="#42a7c6"
+       stroke-linecap="round"
+       id="path19252" />
+    <path
+       d="m 104.28678,101.90523 v -3.810464 a 0.95261678,0.95261678 0 0 0 -0.47631,-0.824013 l -3.33416,-1.905234 a 0.95261678,0.95261678 0 0 0 -0.952618,0 l -3.334159,1.905234 a 0.95261678,0.95261678 0 0 0 -0.476309,0.824013 v 3.810464 a 0.95261678,0.95261678 0 0 0 0.476309,0.82402 l 3.334159,1.90523 a 0.95261678,0.95261678 0 0 0 0.952618,0 l 3.33416,-1.90523 a 0.95261678,0.95261678 0 0 0 0.47631,-0.82402 z"
+       fill-opacity="0"
+       stroke-width="2.74354"
+       stroke="#60bce9"
+       id="path19254" />
+  </g>
+</svg>
