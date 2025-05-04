@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpileum_web=self.webpackChunkpileum_web||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing PileumConnect","permalink":"/blog/introducing-pileum-connect","unlisted":false,"date":"2024-03-01T00:00:00.000Z"}]}')}}]);

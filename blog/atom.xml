@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pileum.org/blog</id>
     <title>Pileum Blog</title>
-    <updated>2024-03-01T00:00:00.000Z</updated>
+    <updated>2025-05-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pileum.org/blog"/>
     <subtitle>Pileum Blog</subtitle>
     <icon>https://pileum.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Introducing O＝C＝O]]></title>
+        <id>https://pileum.org/blog/introducing-oco</id>
+        <link href="https://pileum.org/blog/introducing-oco"/>
+        <updated>2025-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to announce O＝C＝O, a decentralized, equitable cap-and-trade system built to advance climate accountability and ensure fair, transparent management of carbon emissions.]]></summary>
+        <content type="html"><![CDATA[<p>We're excited to announce <strong>O＝C＝O</strong>, a <a href="https://pileum.org/docs/OCO">decentralized, equitable cap-and-trade system</a> built to advance climate accountability and ensure fair, transparent management of carbon emissions.</p>
+<p>O＝C＝O enforces a global emissions cap by allocating an equal carbon allowance to every verified individual. Each allowance is represented by the <code>OCO ERC20 token</code>. Once verified through <a href="https://pileum.org/docs/intro">proof-of-personhood</a>, users can claim their personal carbon allowance, use it directly to offset their own emissions, or trade it freely on open markets. Importantly, the system encourages users to burn OCO tokens equivalent to the amount of CO₂ they emit, fostering personal responsibility and active participation in global carbon reduction efforts.</p>
+<p>To learn more, check out our <a href="https://pileum.org/docs/OCO">full documentation</a>.</p>]]></content>
+        <author>
+            <name>Frédéric</name>
+            <uri>https://fredericb.info</uri>
+        </author>
+        <category label="co2e" term="co2e"/>
+        <category label="cap-and-trade" term="cap-and-trade"/>
+        <category label="carbon-allowance" term="carbon-allowance"/>
+        <category label="proof-of-personhood" term="proof-of-personhood"/>
+        <category label="ethereum" term="ethereum"/>
+        <category label="erc-20" term="erc-20"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing PileumConnect]]></title>
         <id>https://pileum.org/blog/introducing-pileum-connect</id>

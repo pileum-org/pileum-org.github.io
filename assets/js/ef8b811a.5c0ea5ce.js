@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpileum_web=self.webpackChunkpileum_web||[]).push([[8947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Fr\xe9d\xe9ric","title":"Pileum team","url":"https://fredericb.info","socials":{"github":"https://github.com/frederic"},"imageURL":"https://github.com/frederic.png","key":"fred","page":null,"count":2}]}')}}]);
